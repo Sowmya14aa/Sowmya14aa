@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sowmya Indurthi</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmya14aa" alt="sowmya14aa" /></a> </p>
 
 - 🔭 I’m currently working on **Building full-stack, scalable APIs and robust backend systems to solve real-world problems as a Software Engineer**
 
